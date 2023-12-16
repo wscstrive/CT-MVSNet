@@ -1,2 +1,2 @@
-# <p align="center">CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer</p>
+# <p align="center">CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer(MMM 2024)</p>
 code coming soon...
