@@ -18,5 +18,3 @@
 <br />
 
 <div align="center">
-
-<a href="https://youtu.be/XqLDgJAZAKc" target='_blank'><img src=".github/imgs/geomvsnet-video-cover.png" width="50%" /></a><a href="https://youtu.be/dLyuFMz1tAk" target='_blank'><img src=".github/imgs/mvs-demo-video-cover.png" width="50%" /></a>
