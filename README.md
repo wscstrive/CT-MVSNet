@@ -1,9 +1,9 @@
-<h1 align="center">CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer(MMM Oral 2024)</h1>
+<h1 align="center">CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer(MMM‘24 Oral)</h1>
 
 <div align="center">
     <a href="https://github.com/wscstrive" target='_blank'>Sicheng Wang</a>, 
     <a href="https://faculty.nuist.edu.cn/jianghao/zh_CN/index.htm" target='_blank'>Hao Jiang</a>*, 
-    <a href="https://github.com/Sion1" target='_blank'>Lei Xiang</a>, 
+    <a href="https://github.com/Sion1" target='_blank'>Lei Xiang</a>
 </div>
 
 <br />
