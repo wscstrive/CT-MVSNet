@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/wscstrive" target='_blank'>Sicheng Wang</a>, 
-    <a href="https://faculty.nuist.edu.cn/jianghao/zh_CN/index.htm" target='_blank'>Hao Jiang</a>*, 
+    <a href="https://scholar.google.com/citations?hl=en&user=wv7uLCMAAAAJ" target='_blank'>Hao Jiang</a>*, 
     <a href="https://github.com/Sion1" target='_blank'>Lei Xiang</a>
 </div>
 
